@@ -1,1 +1,1 @@
-# SQL-Coursework
+# SQL for Data Analytics-Coursework
